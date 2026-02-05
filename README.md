@@ -1,6 +1,6 @@
-# Etch
+# Etch Lite
 
-Etch is a simple, responsive theme for [Hugo](https://gohugo.io) with a focus on writing. A live demo is available at https://lukasjoswiak.github.io/etch/.
+Etch Lite is a stripped-down variant of Etch for [Hugo](https://gohugo.io) focused on minimizing page size. A live demo is available at https://lukasjoswiak.github.io/etch/.
 
 <img src="https://raw.githubusercontent.com/LukasJoswiak/etch/master/images/screenshot_small.png" alt="screenshot" width="545px">
 
@@ -9,8 +9,7 @@ Etch is a simple, responsive theme for [Hugo](https://gohugo.io) with a focus on
 * Homepage with list of posts.
 * Support for pages.
 * Responsive design for optimized mobile experience.
-* Syntax highlighting with customizable theme.
-* Dark theme which automatically adjusts based on users' setting ([example](https://github.com/LukasJoswiak/etch/wiki/Dark-mode)).
+* Minimal CSS (single file, minified).
 * No external dependencies, no JavaScript, no web fonts.
 * Internationalization friendly: use default English translations or create your own
 

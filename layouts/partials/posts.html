@@ -1,6 +1,1 @@
-<h3>{{ i18n "posts.title" }}</h3>
-<ul id="posts">
-{{- range where site.RegularPages "Type" "in" site.Params.mainSections }}
-    {{ .Render "li" }}
-{{- end }}
-</ul>
+<h3>{{ i18n "posts.title" }}</h3><ul id="posts">{{- range where site.RegularPages "Type" "in" site.Params.mainSections }}{{ .Render "li" }}{{- end }}</ul>

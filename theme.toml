@@ -1,11 +1,11 @@
-name = "Etch"
+name = "Etch Lite"
 license = "MIT"
 licenselink = "https://github.com/LukasJoswiak/etch/blob/master/LICENSE"
-description = "Lightweight Hugo theme with a focus on content"
+description = "Ultra-light Hugo theme focused on minimal page size"
 homepage = "https://github.com/LukasJoswiak/etch"
 demosite = "https://lukasjoswiak.github.io/etch/"
-tags = ["simple", "minimal", "clean", "fast", "blog", "responsive", "dark mode", "privacy"]
-features = ["fast", "blog", "syntax highlighting", "dark mode"]
+tags = ["simple", "minimal", "clean", "fast", "blog", "responsive", "privacy", "lightweight"]
+features = ["fast", "blog"]
 min_version = "0.41"
 
 [author]
