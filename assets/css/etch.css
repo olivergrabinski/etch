@@ -17,8 +17,6 @@ hr{border:0;height:1px;background:var(--rule)}
 #posts small{color:var(--muted);margin-left:.5rem;font-size:.85em}
 article header h1{font-size:1.5rem;margin:0}
 article header div{color:var(--muted);font-size:.85em}
-#toc{border:1px solid var(--rule);padding:.5rem .75rem;margin:1rem 0}
-#toc h4{margin:0;font-size:1rem}
 img,figure{max-width:100%}
 figure{margin:1rem 0}
 figcaption{font-size:.9em;font-style:italic;text-align:center}
